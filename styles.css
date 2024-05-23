@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background: url(imgs/image\ 1.png) no-repeat bottom center/cover;
+    background: url(image\ 1.png) no-repeat bottom center/cover;
     height: 720px;
     display: flex;
     justify-content: center;
